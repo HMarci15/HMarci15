@@ -7,6 +7,7 @@
 - 🔭 Jelenleg a szakmai tudásom mélyítésén és új projektek kidolgozásán dolgozom.
 - 🌱 Erősségeim: **React**, **React Native** és a **C#** alapú fejlesztés.
 - ⚙️ Tapasztalat: Üzletileg kritikus rendszerek modernizálása C# és Power Platform segítségével.
+- 🎯 Célom: Hatékony, felhasználóközpontú és technológiailag stabil szoftverek építése.
 - ⚡ Érdekességek: Imádom a labdarúgást és érdekelnek a társadalmi/viselkedési jelenségek.
 
 ---
@@ -29,7 +30,7 @@
 
 ### 🎓 Kiemelt Projektek
 
-**[QR-kód alapú beltéri navigációs mobilalkalmazás](https://github.com/HMarci15/GoInn)**
+**[QR-kód alapú beltéri navigációs mobilalkalmazás](https://github.com/HMarci15/GoInn)** <br>
 *Szakdolgozati projekt*
 - **Stack:** React Native, TypeScript, Firebase.
 - **Funkciók:** A* algoritmus alapú útvonaltervezés, egyedi SVG-alapú beltéri térképek, valós idejű adatszinkronizáció.
