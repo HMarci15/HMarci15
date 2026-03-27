@@ -1,16 +1,48 @@
-## Hi there 👋
+# Szia, Horváth Marcell vagyok! 👋
 
-<!--
-**HMarci15/HMarci15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Mérnökinformatikus | Frontend & Mobil Fejlesztő
 
-Here are some ideas to get you started:
+2026-ban diplomáztam a **Pannon Egyetem** mérnökinformatikus szakán. Szenvedélyem a skálázható frontend és mobilmegoldások fejlesztése, valamint a vállalati folyamatok automatizálása.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Jelenleg a szakmai tudásom mélyítésén és új projektek kidolgozásán dolgozom.
+- 🌱 Erősségeim: **React**, **React Native** és a **C#** alapú fejlesztés.
+- ⚡ Érdekességek: Imádom a labdarúgást és érdekelnek a társadalmi/viselkedési jelenségek.
+
+---
+
+### 🛠 Technológiai Stack & Készségek
+
+**Frontend & Mobil:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat-square&logo=typescript&logoColor=white)
+
+**Backend & Eszközök:**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=power-automate&logoColor=white)
+
+**Egyéb:** A* algoritmus tervezés, SVG vizualizáció, UI/UX szemlélet, REST architektúra.
+
+---
+
+### 🎓 Kiemelt Projektek
+
+**[QR-kód alapú beltéri navigációs mobilalkalmazás](https://github.com/HMarci15/GoInn)**
+*Szakdolgozati projekt*
+- **Stack:** React Native, TypeScript, Firebase.
+- **Funkciók:** A* algoritmus alapú útvonaltervezés, egyedi SVG-alapú beltéri térképek, valós idejű adatszinkronizáció.
+
+---
+
+### 📈 GitHub Statisztikák
+
+![Marcell's GitHub stats](https://github-readme-stats.vercel.app/api?username=A_TE_FELHASZNALONEVED&show_icons=true&theme=nord&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A_TE_FELHASZNALONEVED&layout=compact&theme=nord)
+
+---
+
+### 📫 Kapcsolat
+- 💼 linkedin.com/in/marcellhorv%C3%A1th
+- 📧 horvathmarci03@gmail.com
