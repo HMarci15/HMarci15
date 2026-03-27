@@ -36,13 +36,6 @@
 
 ---
 
-### 📈 GitHub Statisztikák
-
-![Marcell's GitHub stats](https://github-readme-stats.vercel.app/api?username=A_TE_FELHASZNALONEVED&show_icons=true&theme=nord&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A_TE_FELHASZNALONEVED&layout=compact&theme=nord)
-
----
-
 ### 📫 Kapcsolat
-- 💼 linkedin.com/in/marcellhorv%C3%A1th
+- 💼 www.linkedin.com/in/marcellhorv%C3%A1th
 - 📧 horvathmarci03@gmail.com
