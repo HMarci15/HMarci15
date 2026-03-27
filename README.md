@@ -46,8 +46,6 @@ I graduated in 2026 as a **Computer Science Engineer** from **University of Pann
 </details>
 
 <br />
-<hr />
-<br />
 
 <details>
   <summary><b>🇭🇺 Magyar leírás (Kattints a megnyitáshoz)</b></summary>
