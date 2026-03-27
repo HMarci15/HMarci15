@@ -1,11 +1,12 @@
 # Szia, Horváth Marcell vagyok! 👋
 
-### 👨‍💻 Mérnökinformatikus | Frontend & Mobil Fejlesztő
+### 👨‍💻 Mérnökinformatikus | Szoftverfejlesztő
 
 2026-ban diplomáztam a **Pannon Egyetem** mérnökinformatikus szakán. Szenvedélyem a skálázható frontend és mobilmegoldások fejlesztése, valamint a vállalati folyamatok automatizálása.
 
 - 🔭 Jelenleg a szakmai tudásom mélyítésén és új projektek kidolgozásán dolgozom.
 - 🌱 Erősségeim: **React**, **React Native** és a **C#** alapú fejlesztés.
+- ⚙️ Tapasztalat: Üzletileg kritikus rendszerek modernizálása C# és Power Platform segítségével.
 - ⚡ Érdekességek: Imádom a labdarúgást és érdekelnek a társadalmi/viselkedési jelenségek.
 
 ---
