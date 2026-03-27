@@ -21,7 +21,6 @@
 **Backend & Eszközök:**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=power-automate&logoColor=white)
 
 **Egyéb:** A* algoritmus tervezés, SVG vizualizáció, UI/UX szemlélet, REST architektúra.
 
